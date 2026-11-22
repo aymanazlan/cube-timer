@@ -1,6 +1,7 @@
 # Cube Timer
 
 A speedcubing timer that runs in the browser. It's a single HTML file with no build step and no dependencies.
+https://aymanazlan.github.io/cube-timer/
 
 ## Features
 
